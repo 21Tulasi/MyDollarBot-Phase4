@@ -1,17 +1,27 @@
-Team 46-
+**Team 46-
 Deepika Chowdary Patibandla - dpatiba2
+
 Shevva Sree Tulasi - sshevva
+
 Yogitha Seela - yseela
-Siddartha Goruganti - sgoruga
+
+Siddartha Goruganti - sgoruga**
 
 
-Projects given to us:
+**Projects given to us:**
 Application Tracking System
+
 BurnOut-2.0
+
 Classmate Bot
+
 SRIJAs-2.0
+
 Track My Dollar 
 
+
+                                    **Essay:**
+                                    
 In the process of executing this project, we understood the importance of “Crafting Code that Ages Gracefully: Where Maintenance Reigns Supreme!”. As we started going through all 5 projects and their demo videos, we understood the significance of documentation and of a video that clearly demonstrates each functionality of the application.
 
 We started with exploring the project titled ‘BurnOut2.0’, as we liked the idea of the project, but we faced difficulties in understanding the flow of the code. We attempted to get a clear picture of functionalities through the documentation but even that didn’t turn out well. We identified some undocumented technologies.  Furthermore, we couldn't discover either the structure of individual tables or the Entity Relationship diagrams for the database they have  used. We were unable to proceed further with the execution due to the issues mentioned earlier, thus we shifted to a different project.
