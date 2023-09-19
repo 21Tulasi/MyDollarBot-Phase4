@@ -1,14 +1,16 @@
-**Team 46-
-Deepika Chowdary Patibandla - dpatiba2
+**Team 46-**
 
-Shevva Sree Tulasi - sshevva
+**Deepika Chowdary Patibandla - dpatiba2**
 
-Yogitha Seela - yseela
+**Shevva Sree Tulasi - sshevva**
 
-Siddartha Goruganti - sgoruga**
+**Yogitha Seela - yseela**
+
+**Siddartha Goruganti - sgoruga**
 
 
 **Projects given to us:**
+
 Application Tracking System
 
 BurnOut-2.0
